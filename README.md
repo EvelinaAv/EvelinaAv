@@ -8,7 +8,7 @@ Welcome to my corner of GitHub! I'm an upcoming Data Analyst currently diving in
 
 🧳 Passionate traveler, exploring new places and cultures whenever I can
 
-📚 Avid reader—especially biographies and books that open windows into others' lives
+📚 Avid reader — especially drawn to biographies and stories that offer a glimpse into unique lives and perspectives
 
 👗 Fashion and aesthetics enthusiast, with an eye for design and detail
 

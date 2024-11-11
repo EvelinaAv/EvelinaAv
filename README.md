@@ -3,9 +3,13 @@
 Welcome to my corner of GitHub! I'm an upcoming Data Analyst currently diving into data skills at Turing College and working in finance by day. My goal? Transform raw data into stories that spark insights and drive decisions.
 
 ✨ About Me:
+
 🌲 Nature lover, always up for long walks with my dog
+
 🧳 Passionate traveler, exploring new places and cultures whenever I can
+
 📚 Avid reader—especially biographies and books that open windows into others' lives
+
 👗 Fashion and aesthetics enthusiast, with an eye for design and detail
 
 
